@@ -52,6 +52,9 @@ Removed
   * lpi-help
   * lpi-translate
   * computerjanitor
+  * add-files-to-archive
+  * add-folder-to-archive
+  * extract-archive
 
 
 ======= 3.14.0 (GNOME 3.14) =======
