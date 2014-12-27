@@ -5,9 +5,14 @@ New
   * nm-mb-roam
   * nm-tech-*
   * nm-wwan-tower
+  * gnome-calendar
 
 Changed
   * meld-change-*
+  * x-office-calendar
+  * xfcalendar
+  * go-today
+  * preferences-calendar-and-tasks
 
 
 ======= 3.14.0 (GNOME 3.14) =======
