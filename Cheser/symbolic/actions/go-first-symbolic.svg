@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' sodipodi:docname='go-first-symbolic.svg' height='16' id='svg7384' xmlns:inkscape='http://www.inkscape.org/namespaces/inkscape' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:sodipodi='http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd' xmlns:svg='http://www.w3.org/2000/svg' inkscape:version='0.48.4 r9939' version='1.1' width='16' xmlns='http://www.w3.org/2000/svg'>
+  <metadata id='metadata90'>
+    <rdf:RDF>
+      <cc:Work rdf:about=''>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage'/>
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview inkscape:bbox-paths='false' bordercolor='#666666' borderopacity='1' inkscape:current-layer='layer12' inkscape:cx='136.04343' inkscape:cy='-12.64578' gridtolerance='10' inkscape:guide-bbox='true' guidetolerance='10' id='namedview88' inkscape:object-nodes='true' inkscape:object-paths='true' objecttolerance='10' pagecolor='#555753' inkscape:pageopacity='1' inkscape:pageshadow='2' showborder='false' showgrid='false' showguides='true' inkscape:snap-bbox='true' inkscape:snap-bbox-midpoints='false' inkscape:snap-global='true' inkscape:snap-grids='true' inkscape:snap-nodes='false' inkscape:snap-to-guides='true' inkscape:window-height='467' inkscape:window-maximized='0' inkscape:window-width='521' inkscape:window-x='664' inkscape:window-y='27' inkscape:zoom='2'>
+    <inkscape:grid empspacing='2' enabled='true' id='grid4866' originx='161.0002px' originy='409px' snapvisiblegridlinesonly='true' spacingx='1px' spacingy='1px' type='xygrid' visible='true'/>
+  </sodipodi:namedview>
+  <title id='title9167'>Gnome Symbolic Icon Theme</title>
+  <defs id='defs7386'/>
+  <g inkscape:groupmode='layer' id='layer12' inkscape:label='actions' transform='translate(-80,-626)'>
+    
+    <path inkscape:connector-curvature='0' d='m 90,628 -1,0 c -0.0104,-1.2e-4 -0.0208,-4.6e-4 -0.0313,0 -0.25495,0.0112 -0.50987,0.12858 -0.6875,0.3125 l -5.28125,5.21875 5.28125,5.1875 C 88.46941,638.90694 88.73471,639 89,639 l 1,0 0,-1 c 0,-0.26529 -0.0931,-0.53058 -0.28125,-0.71875 l -3.8125,-3.75 3.8125,-3.78125 C 89.92949,629.55537 90.02191,629.28075 90,629 l 0,-1 z' id='path10839-9-9-3-6' sodipodi:nodetypes='ccsccccccccccc' style='font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Andale Mono;-inkscape-font-specification:Andale Mono'/>
+    <path sodipodi:cx='86.421875' sodipodi:cy='525.67188' d='m 87.625,525.67187 a 1.203125,1.203125 0 1 1 -2.40625,0 1.203125,1.203125 0 1 1 2.40625,0 z' id='path3490-1-8' sodipodi:rx='1.203125' sodipodi:ry='1.203125' style='color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate' transform='matrix(-1.2467533,0,0,1.2467533,198.24676,-21.88314)' sodipodi:type='arc'/>
+    <rect height='11' id='rect4317-4' rx='0' ry='0' style='color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate' transform='scale(-1,1)' width='2' x='-82' y='628'/>
+  </g>
+</svg>
