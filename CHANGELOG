@@ -6,6 +6,8 @@ New
   * nm-tech-*
   * nm-wwan-tower
   * gnome-calendar
+  * xfpm-brightness-keyboard
+  * tablet
 
 Changed
   * meld-change-*
@@ -13,6 +15,20 @@ Changed
   * xfcalendar
   * go-today
   * preferences-calendar-and-tasks
+  * xfpm-brightness-lcd
+  * xfpm-ups-*
+  * xfpm-ups-charged
+
+Removed
+  * xfpm-brightness-lcd-invalid
+  * xfpm-hibernate
+  * xfpm-suspend
+  * xfpm-keyboard-*
+  * xfpm-mouse-*
+  * xfpm-phone-*
+  * xfpm-ups-*-charging
+  * xfpm-ups-missing
+  * processor
 
 
 ======= 3.14.0 (GNOME 3.14) =======
