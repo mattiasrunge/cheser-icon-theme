@@ -40,6 +40,12 @@ Removed
   * gnome-logo
   * gnome-foot
   * distributor-logo
+  * jockey
+  * jockey-certified
+  * jockey-disabled
+  * jockey-enabled
+  * jockey-free
+  * jockey-proprietary
 
 
 ======= 3.14.0 (GNOME 3.14) =======
