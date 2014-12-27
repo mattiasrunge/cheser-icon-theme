@@ -18,6 +18,8 @@ Changed
   * xfpm-brightness-lcd
   * xfpm-ups-*
   * xfpm-ups-charged
+  * apport
+  * text-x-apport
 
 Removed
   * xfpm-brightness-lcd-invalid
