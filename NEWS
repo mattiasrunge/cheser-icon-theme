@@ -1,6 +1,9 @@
 ?.??.? (GNOME ?.??)
 ===================
 
+  New
+    * mark-location
+
   Changed
     * diff-symbolic
     * note
@@ -12,6 +15,7 @@
     * admon-note
     * active-notes
     * special-notes
+    * maps-pin
 
 -------------------------------------------------------------------------------
 
