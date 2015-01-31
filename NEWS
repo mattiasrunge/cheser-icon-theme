@@ -16,6 +16,47 @@
     * active-notes
     * special-notes
     * maps-pin
+    * folder
+    * folder-new
+    * folder-documents
+    * folder-download
+    * folder-music
+    * folder-pictures
+    * folder-publicshare
+    * folder-remote
+    * folder-saved-search
+    * folder-templates
+    * folder-videos
+    * folder-drag-accept
+    * folder-open
+    * folder-visiting
+    * document-open
+    * user-bookmarks
+    * user-desktop
+    * user-home
+    * fileopen
+    * desktop
+    * network
+    * inode-directory
+    * gnome-fs-desktop
+    * gnome-fs-directory
+    * gnome-fs-ftp
+    * gnome-fs-home
+    * gnome-fs-nfs
+    * gnome-fs-share
+    * gnome-fs-smb
+    * gnome-fs-ssh
+    * gnome-fs-directory-accept
+    * gnome-fs-directory-visiting
+    * gnome-mime-x-directory-smb-share
+    * gtk-open
+    * gtk-directory
+    * stock_folder
+    * stock_new-dir
+    * stock_open
+    * stock_shared-by-me
+    * stock_shared-to-me
+    * stock_thunar-shortcuts
 
 -------------------------------------------------------------------------------
 
