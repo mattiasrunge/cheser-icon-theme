@@ -5,6 +5,15 @@
     * spray-mode-clone
     * spray-mode-copy
     * spray-mode-union
+    * boundingbox_bottom
+    * boundingbox_bottom_left
+    * boundingbox_bottom_right
+    * boundingbox_center
+    * boundingbox_left
+    * boundingbox_right
+    * boundingbox_top
+    * boundingbox_top_left
+    * boundingbox_top_right
 
 -------------------------------------------------------------------------------
 
