@@ -15,6 +15,25 @@
     * boundingbox_top_left
     * boundingbox_top_right
 
+
+  Changed
+    * node-add
+    * node-break
+    * node-delete
+    * node-delete-segment
+    * node-join
+    * node-join-segment
+    * node-type-auto-smooth
+    * node-type-symmetric
+    * object-to-path
+    * stroke-to-path
+    * draw-connector
+    * draw-spiral
+    * align-horizontal-node
+    * align-vertical-node
+    * distribute-horizontal-node
+    * distribute-vertical-node
+
 -------------------------------------------------------------------------------
 
 3.14.3 (GNOME 3.14)
