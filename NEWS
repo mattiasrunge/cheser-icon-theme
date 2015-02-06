@@ -36,6 +36,9 @@
     * object-group
     * object-ungroup
     * path-break-apart
+    * color-fill
+    * draw-calligraphic
+    * draw-path
 
 -------------------------------------------------------------------------------
 
