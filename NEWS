@@ -33,6 +33,8 @@
     * align-vertical-node
     * distribute-horizontal-node
     * distribute-vertical-node
+    * object-group
+    * object-ungroup
 
 -------------------------------------------------------------------------------
 
