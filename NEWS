@@ -39,6 +39,8 @@
     * color-fill
     * draw-calligraphic
     * draw-path
+    * rhythmbox-set-star
+    * rhythmbox-unset-star
 
 -------------------------------------------------------------------------------
 
