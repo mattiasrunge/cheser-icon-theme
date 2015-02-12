@@ -18,6 +18,11 @@
     * symbols
     * symbol-add
     * symbol-remove
+    * dropboxstatus-logo
+    * dropboxstatus-idle
+    * dropboxstatus-busy
+    * dropboxstatus-busy2
+    * dropboxstatus-x
 
 
   Changed
