@@ -18,7 +18,7 @@
    id="svg11300"
    sodipodi:version="0.32"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="xfce4-panel-menu.svg"
+   sodipodi:docname="xfce4-logo.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
    style="display:inline;enable-background:new">
@@ -34,16 +34,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.2815401"
-     inkscape:cx="348.99572"
+     inkscape:cx="260.04025"
      inkscape:cy="179.02197"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
-     inkscape:window-width="959"
+     inkscape:window-width="960"
      inkscape:window-height="1018"
-     inkscape:window-x="960"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      width="400px"
      height="300px"
@@ -494,7 +494,7 @@
   <g
      style="display:inline"
      inkscape:groupmode="layer"
-     inkscape:label="xfce4-panel-menu"
+     inkscape:label="xfce4-logo"
      id="layer1">
     <g
        inkscape:groupmode="layer"
