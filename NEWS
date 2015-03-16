@@ -12,6 +12,21 @@
     * document-cleanup
     * distribute-unclump
 
+
+  Removed
+    * dialog-scripts
+    * document-export-ocal
+    * document-metadata
+    * show-grid
+    * show-guides
+    * snap-bounding-box
+    * snap-grid-guide-intersections
+    * snap-nodes
+    * spray-clone-mode
+    * spray-copy-mode
+    * spray-union-mode
+    * text_remove_kerns
+
 -------------------------------------------------------------------------------
 
 3.14.4 (GNOME 3.14)
