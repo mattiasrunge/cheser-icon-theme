@@ -31,6 +31,7 @@
     * poi-marker
     * poi-railway-station
     * poi-town
+    * goa-account-foursquare
 
 
   Changed
@@ -58,6 +59,7 @@
     * yelp-bookmark-add-symbolic
     * yelp-bookmark-remove-symbolic
     * maps-pin
+    * goa-account-yahoo
 
 -------------------------------------------------------------------------------
 
