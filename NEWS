@@ -42,6 +42,8 @@
     * dialog-messages
     * document-cleanup
     * distribute-unclump
+    * rotation-allowed-symbolic
+    * rotation-locked-symbolic
 
 
   Removed
