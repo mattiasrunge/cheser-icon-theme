@@ -36,6 +36,52 @@
     * gnome-books
     * gnome-books-symbolic
     * gnome-documents-symbolic
+    * baobab-symbolic
+    * bijiben-symbolic
+    * brasero-symbolic
+    * cheese-symbolic
+    * devhelp-symbolic
+    * empathy-symbolic
+    * eog-symbolic
+    * evince-symbolic
+    * evolution-symbolic
+    * file-roller-symbolic
+    * five-or-more-symbolic
+    * four-in-a-row-symbolic
+    * ghex-symbolic
+    * glade-symbolic
+    * glade-3-symbolic
+    * gnome-aisleriot-symbolic
+    * gnome-boxes-symbolic
+    * gnome-chess-symbolic
+    * gnome-clocks-symbolic
+    * gnome-disks-symbolic
+    * gnome-freecell-symbolic
+    * gnome-klotski-symbolic
+    * gnome-logs-symbolic
+    * logview-symbolic
+    * gnome-mahjongg-symbolic
+    * gnome-maps-symbolic
+    * gnome-mines-symbolic
+    * gnome-music-symbolic
+    * gnome-nettool-symbolic
+    * gnome-nibbles-symbolic
+    * gnome-power-statistics-symbolic
+    * gnome-robots-symbolic
+    * gnome-tetravex-symbolic
+    * gnome-weather-symbolic
+    * org.gnome.Weather.Application-symbolic
+    * gtk3-demo-symbolic
+    * gtk3-widget-factory-symbolic
+    * inkscape-symbolic
+    * orca-symbolic
+    * quadrapassel-symbolic
+    * seahorse-symbolic
+    * sound-juicer-symbolic
+    * tali-symbolic
+    * tomboy-symbolic
+    * gnote-symbolic
+    * totem-symbolic
 
 
   Changed
