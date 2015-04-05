@@ -160,6 +160,23 @@
     * giggle-history-view
     * giggle-remote
     * giggle-tag
+    * gthumb
+    * browser-mode
+    * file-catalog
+    * file-library
+    * file-search
+    * histogram
+    * image-navigator
+    * tool-adjust-colors
+    * tool-crop
+    * tool-flip
+    * tool-mirror
+    * tool-red-eye
+    * tool-resize
+    * tool-rotate-90
+    * tool-rotate-270
+    * palette
+    * slideshow-pause
 
 -------------------------------------------------------------------------------
 
