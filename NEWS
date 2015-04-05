@@ -185,6 +185,20 @@
     * un-reboot
     * system-restart
     * account-logged-in
+    * gnome-monitor
+    * gnome-settings-background
+    * gnome-terminal
+    * gnome-mime-x-directory-smb-share
+    * gnome-dev-*
+    * gnome-fs-*
+    * fileopen
+    * desktop
+    * openterm
+    * wallpaper
+    * network
+    * stock_folder
+    * stock_new-dir
+    * stock_open
 
 -------------------------------------------------------------------------------
 
