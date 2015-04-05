@@ -139,6 +139,21 @@
     * apport
     * text-x-apport
     * ubuntu-tweak
+    * synaptic
+    * package-available
+    * package-available-locked
+    * package-broken
+    * package-downgrade
+    * package-install
+    * package-installed-locked
+    * package-installed-outdated
+    * package-installed-updated
+    * package-new
+    * package-purge
+    * package-reinstall
+    * package-remove
+    * package-upgrade
+    * system-upgrade
 
 -------------------------------------------------------------------------------
 
