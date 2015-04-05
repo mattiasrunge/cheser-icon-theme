@@ -154,6 +154,12 @@
     * package-remove
     * package-upgrade
     * system-upgrade
+    * giggle
+    * giggle-branch
+    * giggle-diff-view
+    * giggle-history-view
+    * giggle-remote
+    * giggle-tag
 
 -------------------------------------------------------------------------------
 
