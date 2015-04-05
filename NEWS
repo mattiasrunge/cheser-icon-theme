@@ -177,6 +177,12 @@
     * tool-rotate-270
     * palette
     * slideshow-pause
+    * update-notifier
+    * updates-notifier
+    * updates-notifier-inactive
+    * hook-notifier
+    * reboot-notifier
+    * un-reboot
 
 -------------------------------------------------------------------------------
 
