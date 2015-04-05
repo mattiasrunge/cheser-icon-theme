@@ -183,6 +183,8 @@
     * hook-notifier
     * reboot-notifier
     * un-reboot
+    * system-restart
+    * account-logged-in
 
 -------------------------------------------------------------------------------
 
