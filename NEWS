@@ -136,6 +136,8 @@
     * aptdaemon-upgrade
     * aptdaemon-wait
     * aptdaemon-working
+    * apport
+    * text-x-apport
 
 -------------------------------------------------------------------------------
 
