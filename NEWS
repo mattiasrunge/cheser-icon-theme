@@ -120,6 +120,22 @@
     * tasque-panel
     * tasque-note
     * tasque-completing-*
+    * aptdaemon-action-cleaning-up
+    * aptdaemon-action-downloading
+    * aptdaemon-action-installing
+    * aptdaemon-action-removing
+    * aptdaemon-action-resolving
+    * aptdaemon-action-updating-cache
+    * aptdaemon-action-waiting
+    * aptdaemon-add
+    * aptdaemon-cleanup
+    * aptdaemon-delete
+    * aptdaemon-download
+    * aptdaemon-resolve
+    * aptdaemon-update-cache
+    * aptdaemon-upgrade
+    * aptdaemon-wait
+    * aptdaemon-working
 
 -------------------------------------------------------------------------------
 
