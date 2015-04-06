@@ -246,6 +246,10 @@
     * slideshow-play
     * bluetooth-active
     * bluetooth-disabled
+    * audio-input-microphone-high
+    * audio-input-microphone-low
+    * audio-input-microphone-medium
+    * audio-input-microphone-muted
 
 -------------------------------------------------------------------------------
 
