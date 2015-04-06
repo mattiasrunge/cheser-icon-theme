@@ -250,6 +250,11 @@
     * audio-input-microphone-low
     * audio-input-microphone-medium
     * audio-input-microphone-muted
+    * yelp-page-task
+    * yelp-page-tip
+    * yelp-page-ui
+    * yelp-page-video
+    * bookmark
 
 -------------------------------------------------------------------------------
 
