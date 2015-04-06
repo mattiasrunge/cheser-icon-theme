@@ -260,6 +260,16 @@
     * view-minimize
     * totem-tv
     * nm-vpn-standalone-lock
+    * application-x-catalog
+    * application-x-package-list
+    * pk-action-cleanup
+    * pk-action-download
+    * pk-action-installing
+    * pk-action-refresh-cache
+    * pk-action-removing
+    * pk-action-searching
+    * pk-action-testing
+    * pk-action-waiting
 
 -------------------------------------------------------------------------------
 
