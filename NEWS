@@ -200,6 +200,12 @@
     * stock_new-dir
     * stock_open
     * application-running
+    * gda-control-center
+    * bookmark-view
+    * history-view
+    * transaction-begin
+    * transaction-commit
+    * transaction-rollback
 
 -------------------------------------------------------------------------------
 
