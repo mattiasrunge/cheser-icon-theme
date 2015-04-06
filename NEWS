@@ -230,6 +230,12 @@
     * preferences-system-session
     * session-properties
     * typing-monitor
+    * admon-bug
+    * admon-caution
+    * admon-important
+    * admon-note
+    * admon-tip
+    * admon-warning
 
 -------------------------------------------------------------------------------
 
