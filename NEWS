@@ -244,6 +244,8 @@
     * stock_show-all
     * stock_view-details
     * slideshow-play
+    * bluetooth-active
+    * bluetooth-disabled
 
 -------------------------------------------------------------------------------
 
