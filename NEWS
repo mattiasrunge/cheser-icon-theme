@@ -1,6 +1,10 @@
 ?.??.? (GNOME ?.??)
 ===================
 
+- Support Fedora 22 with GNOME 3.16 & Xfce 4.12
+- Added symbolic icons for Apps
+- Massive cleanup - supported only packages from Fedora repositories
+
   New
     * parole-extension-symbolic
     * xfce4-pulseaudio-plugin
