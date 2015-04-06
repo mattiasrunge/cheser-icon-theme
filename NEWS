@@ -206,6 +206,7 @@
     * transaction-begin
     * transaction-commit
     * transaction-rollback
+    * software-properties
 
 -------------------------------------------------------------------------------
 
