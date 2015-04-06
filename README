@@ -1,10 +1,14 @@
 Tango style icons.
 
-  * Tested in Fedora 21 (GNOME 3.14 & Xfce 4.10)
+  * Supported Fedora 22 with GNOME 3.16 & Xfce 4.12
 
 
 Based on GNOME Project icons
   http://www.gnome.org
   https://github.com/GNOME
   https://github.com/gnome-design-team/gnome-icons
+
+
+Bugs & Issues
+  https://github.com/chekavy/cheser-icon-theme/issues
 
