@@ -90,6 +90,25 @@
     * dconf-editor-symbolic
     * gconf-editor-symbolic
     * swell-foop-symbolic
+    * lightsoff-symbolic
+    * hitori-symbolic
+    * abrt-symbolic
+    * gnome-abrt-symbolic
+    * blender-symbolic
+    * fedora-release-notes-symbolic
+    * preferences-system-firewall-symbolic
+    * firewall-config-symbolic
+    * gimp-symbolic
+    * haguichi-symbolic
+    * liveinst-symbolic
+    * nemiver-symbolic
+    * pidgin-symbolic
+    * setroubleshoot_icon-symbolic
+    * shotwell-symbolic
+    * system-config-authentication-symbolic
+    * transmission-symbolic
+    * xchat-symbolic
+    * xchat-gnome-symbolic
 
 
   Changed
