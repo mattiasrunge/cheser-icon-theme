@@ -125,6 +125,14 @@
     * lang-method-symbolic
     * lang-struct-symbolic
     * struct-field-symbolic
+    * gnome-characters
+    * characters-arrow-symbolic
+    * characters-bullet-symbolic
+    * characters-currency-symbolic
+    * characters-latin-symbolic
+    * characters-math-symbolic
+    * characters-picture-symbolic
+    * characters-punctuation-symbolic
 
 
   Changed
