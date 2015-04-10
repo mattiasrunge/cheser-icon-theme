@@ -109,6 +109,22 @@
     * transmission-symbolic
     * xchat-symbolic
     * xchat-gnome-symbolic
+    * builder
+    * builder-symbolic
+    * builder-documentation-symbolic
+    * builder-editor-symbolic
+    * builder-move-left-symbolic
+    * builder-move-right-symbolic
+    * builder-split-tab-symbolic
+    * builder-split-tab-left-symbolic
+    * builder-split-tab-right-symbolic
+    * lang-class-symbolic
+    * lang-enum-symbolic
+    * lang-enum-value-symbolic
+    * lang-function-symbolic
+    * lang-method-symbolic
+    * lang-struct-symbolic
+    * struct-field-symbolic
 
 
   Changed
