@@ -1,14 +1,21 @@
-Tango style icons.
-
-  * Supported Fedora 22 with GNOME 3.16 & Xfce 4.12
-
-
-Based on GNOME Project icons
-  http://www.gnome.org
-  https://github.com/GNOME
-  https://github.com/gnome-design-team/gnome-icons
+Tango / GNOME style icons
+=========================
+Supported Fedora 22 with GNOME 3.16 & Xfce 4.12
 
 
 Bugs & Issues
-  https://github.com/chekavy/cheser-icon-theme/issues
+-------------
+https://github.com/chekavy/cheser-icon-theme/issues
+
+
+Wiki
+----
+https://github.com/chekavy/cheser-icon-theme/wiki
+
+
+Based on GNOME icons
+--------------------
+https://www.gnome.org
+https://github.com/GNOME
+https://github.com/gnome-design-team/gnome-icons
 
