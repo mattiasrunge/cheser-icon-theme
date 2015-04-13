@@ -14,6 +14,6 @@
     - xfce4-whiskermenu-plugin
   * Updated Supported Packages list
   * Massive cleanup:
-    - removed unused icons
+    - removed unused & deprecated icons
     - supported only packages from Fedora repositories
 
