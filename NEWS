@@ -16,4 +16,5 @@
   * Massive cleanup:
     - removed unused & deprecated icons [#14, #30]
     - supported only packages from Fedora repositories
+  * Bugs fixed [#17]
 
