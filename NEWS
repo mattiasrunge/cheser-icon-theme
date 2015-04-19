@@ -1,6 +1,8 @@
 ?.??.? (GNOME ?.??)
 ===================
 
+  * New icons:
+    - gnome-builder [#38]
   * Changed icons:
     - meld [#37]
   * Updated Supported Packages list
