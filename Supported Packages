@@ -40,7 +40,7 @@
 * flash-player-11.2
 * four-in-a-row-3.16.0
 * gconf-editor-3.0.1
-* gcr-3.14.0
+* gcr-3.16.0
 * geany-1.24
 * geany-plugins-1.24
 * geary-0.10.0
@@ -101,7 +101,7 @@
 * im-chooser-1.6.4
 * inkscape-0.91
 * keepassx-0.4.3
-* krb5-auth-dialog-3.14.0
+* krb5-auth-dialog-3.15.4
 * labyrinth-0.6
 * leafpad-0.8.18
 * libpeas-1.14.0
@@ -109,7 +109,7 @@
 * liferea-1.10.14
 * lightsoff-3.16.1
 * liveusb-creator-3.13.3
-* meld-3.12.0
+* meld-3.13.1
 * midori-0.5.9
 * mplayer-1.1.1
 * nemiver-0.9.5
@@ -154,7 +154,7 @@
 * xarchiver-0.5.4
 * xchat-2.8.8
 * xchat-gnome-0.26.1
-* xfburn-0.5.2
+* xfburn-0.5.4
 * xfce4-appfinder-4.12.0
 * xfce4-battery-plugin-1.0.5
 * xfce4-clipman-plugin-1.2.6
