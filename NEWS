@@ -8,6 +8,8 @@
     - meld [#37]
     - gpk-prefs [#41]
   * Updated Supported Packages list [#32, #34, #42]
+  * Removed icons:
+    - deprecated thunar icons [#33]
 
 
 3.16.0 (GNOME 3.16)
