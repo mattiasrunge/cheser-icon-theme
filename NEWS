@@ -10,6 +10,7 @@
   * Updated Supported Packages list [#32, #34, #42]
   * Removed icons:
     - deprecated thunar icons [#33]
+    - liveinst icons for anaconda [#39]
   * Bugs fixed [#43]
 
 
