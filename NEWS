@@ -4,6 +4,7 @@
   * Changed icons:
     - liveusb-creator
   * Removed the same with upstream icons [#48]
+  * Removed icons for deprecated packages [#50]
 
 
 3.16.1 (GNOME 3.16)
