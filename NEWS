@@ -1,8 +1,10 @@
 ?.??.? (GNOME ?.??)
 ===================
 
+  * Updated icons for GNOME 3.18 [#51]
   * Changed icons:
     - liveusb-creator
+    - goa-account [#51]
   * Removed the same with upstream icons [#48]
   * Removed icons for deprecated packages [#50]
 
