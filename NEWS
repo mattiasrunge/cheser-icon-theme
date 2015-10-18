@@ -1,6 +1,7 @@
 ?.??.? (GNOME ?.??)
 ===================
 
+  * Support Fedora 23 with GNOME 3.18 & Xfce 4.12
   * Updated icons for GNOME 3.18 [#51]
   * Updated icons for Xfce Power Manager [#44]
   * Changed icons:
