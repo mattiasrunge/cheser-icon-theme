@@ -32,15 +32,15 @@
      objecttolerance="10000"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.84649441"
-     inkscape:cx="985.49725"
-     inkscape:cy="35.269045"
+     inkscape:zoom="2.9965938"
+     inkscape:cx="948.00024"
+     inkscape:cy="135.89529"
      inkscape:document-units="px"
-     inkscape:current-layer="g15215"
+     inkscape:current-layer="g15283"
      showgrid="false"
-     inkscape:window-width="1920"
+     inkscape:window-width="1251"
      inkscape:window-height="1016"
-     inkscape:window-x="0"
+     inkscape:window-x="669"
      inkscape:window-y="27"
      borderlayer="true"
      inkscape:showpageshadow="false"
@@ -49,7 +49,7 @@
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="0">
     <inkscape:grid
        opacity="0.07843137"
        color="#ff0000"
@@ -4659,7 +4659,7 @@
       </g>
       <g
          style="display:inline;enable-background:new"
-         transform="matrix(0.66815143,0,0,0.66815143,851.78643,963.04681)"
+         transform="matrix(0.66815143,0,0,0.66815143,851.25613,963.9421)"
          id="use3914">
         <ellipse
            ry="46"
