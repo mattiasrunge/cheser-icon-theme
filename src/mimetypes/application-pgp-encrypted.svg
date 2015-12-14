@@ -32,11 +32,11 @@
      objecttolerance="10000"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5153801"
-     inkscape:cx="375.66616"
-     inkscape:cy="-292.79617"
+     inkscape:zoom="29.839429"
+     inkscape:cx="299.41181"
+     inkscape:cy="62.777278"
      inkscape:document-units="px"
-     inkscape:current-layer="g15283"
+     inkscape:current-layer="g15215"
      showgrid="false"
      inkscape:window-width="1255"
      inkscape:window-height="1013"
@@ -3909,7 +3909,7 @@
            style="display:inline;opacity:0.87854201;fill:url(#linearGradient887);fill-opacity:1;stroke:none" />
       </g>
       <g
-         transform="translate(-404.49983,908)"
+         transform="translate(-404.99983,908)"
          style="display:inline;enable-background:new"
          id="g504">
         <circle
@@ -4063,7 +4063,7 @@
         </g>
       </g>
       <g
-         transform="translate(-409.99996,908.00006)"
+         transform="translate(-410.49996,908.00006)"
          style="display:inline;enable-background:new"
          id="g530">
         <g
@@ -4398,7 +4398,7 @@
       <g
          style="display:inline;enable-background:new"
          id="g8711"
-         transform="translate(-808.00009,934.5)">
+         transform="translate(-808.00009,934)">
         <circle
            r="52.856232"
            cy="131.17825"

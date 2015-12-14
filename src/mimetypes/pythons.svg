@@ -33,15 +33,15 @@
      objecttolerance="10000"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0347312"
-     inkscape:cx="650.75976"
-     inkscape:cy="107.86543"
+     inkscape:zoom="3.3224572"
+     inkscape:cx="562.69312"
+     inkscape:cy="120.53715"
      inkscape:document-units="px"
-     inkscape:current-layer="g15193"
+     inkscape:current-layer="g15283"
      showgrid="false"
-     inkscape:window-width="1920"
+     inkscape:window-width="960"
      inkscape:window-height="1016"
-     inkscape:window-x="0"
+     inkscape:window-x="960"
      inkscape:window-y="27"
      borderlayer="true"
      inkscape:showpageshadow="false"
@@ -50,7 +50,7 @@
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="0">
     <inkscape:grid
        opacity="0.07843137"
        color="#ff0000"
@@ -4528,7 +4528,7 @@
         </g>
       </g>
       <g
-         transform="translate(291.99628,953.99969)"
+         transform="translate(291.99628,953.85995)"
          id="g114">
         <g
            transform="translate(-44,-0.999111)"
@@ -4933,7 +4933,7 @@
            inkscape:connector-curvature="0" />
       </g>
       <g
-         transform="translate(133.40838,1065.9345)"
+         transform="translate(133.40838,1066.2138)"
          id="g69">
         <ellipse
            ry="6.9673119"
@@ -5154,7 +5154,7 @@
       </g>
       <g
          id="g15209-2"
-         transform="matrix(1.000006,0,0,1,648.64025,1078.0013)">
+         transform="matrix(1.000006,0,0,1,648.1405,1078.0013)">
         <path
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="csscccccccsscccc"
@@ -5221,7 +5221,7 @@
            sodipodi:nodetypes="ccsccsssccssssccccccccccssssssscccssccsssccccccccccsssssccsc" />
       </g>
       <g
-         transform="translate(686.42875,1024.863)"
+         transform="translate(686.679,1024.363)"
          id="g89">
         <ellipse
            ry="7.4751287"
@@ -5301,7 +5301,7 @@
         </g>
       </g>
       <g
-         transform="translate(682.99975,947)"
+         transform="translate(682.997,946.86)"
          id="g114-7">
         <ellipse
            ry="7.4751287"
@@ -5441,7 +5441,7 @@
            height="900" />
       </g>
       <g
-         transform="translate(479.40838,1009.9348)"
+         transform="translate(479.40838,1010.2138)"
          id="g69-9">
         <ellipse
            ry="6.9673119"

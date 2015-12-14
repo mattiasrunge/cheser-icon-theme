@@ -32,15 +32,15 @@
      objecttolerance="10000"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.197124"
-     inkscape:cx="337.81606"
-     inkscape:cy="170.6295"
+     inkscape:zoom="2.1818649"
+     inkscape:cx="122.12248"
+     inkscape:cy="69.553073"
      inkscape:document-units="px"
      inkscape:current-layer="g15283"
      showgrid="false"
-     inkscape:window-width="1251"
+     inkscape:window-width="960"
      inkscape:window-height="1016"
-     inkscape:window-x="669"
+     inkscape:window-x="960"
      inkscape:window-y="27"
      borderlayer="true"
      inkscape:showpageshadow="false"
@@ -4532,7 +4532,7 @@
       </g>
       <g
          style="display:inline;enable-background:new"
-         transform="translate(-4.844722,906.02228)"
+         transform="translate(-5.0143584,906.02228)"
          id="g4874">
         <g
            transform="translate(304.02997,175.97772)"
@@ -4592,7 +4592,7 @@
       </g>
       <g
          style="display:inline;enable-background:new"
-         transform="matrix(0.88870808,0,0,0.88870808,295.10442,1123.7807)"
+         transform="matrix(0.88870808,0,0,0.88870808,295.06942,1123.7807)"
          id="g12439">
         <rect
            style="display:inline;overflow:visible;visibility:visible;fill:#d9a452;fill-opacity:1;fill-rule:evenodd;stroke:#8f5902;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
@@ -4647,7 +4647,7 @@
            sodipodi:nodetypes="ccccc" />
       </g>
       <g
-         transform="matrix(1.00002,0,0,0.99999878,2.014758,790.6967)"
+         transform="matrix(1.00002,0,0,0.99999878,1.9942355,791.0007)"
          id="g4641"
          style="display:inline;enable-background:new">
         <rect
@@ -4932,7 +4932,7 @@
         </g>
       </g>
       <g
-         transform="translate(5.128548,933.50587)"
+         transform="translate(5.1290253,933.50587)"
          style="display:inline;enable-background:new"
          id="g10827">
         <g

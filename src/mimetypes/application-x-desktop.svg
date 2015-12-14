@@ -32,11 +32,11 @@
      objecttolerance="10000"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0306081"
-     inkscape:cx="312.96709"
-     inkscape:cy="5.7540704"
+     inkscape:zoom="3.3092182"
+     inkscape:cx="156.11909"
+     inkscape:cy="111.21012"
      inkscape:document-units="px"
-     inkscape:current-layer="g15193"
+     inkscape:current-layer="g15283"
      showgrid="false"
      inkscape:window-width="960"
      inkscape:window-height="1016"
@@ -3710,7 +3710,7 @@
            style="display:inline;opacity:0.87854201;fill:url(#linearGradient877);fill-opacity:1;stroke:none" />
       </g>
       <g
-         transform="translate(-33.315503,992.98322)"
+         transform="translate(-33.316016,992.98322)"
          style="display:inline;enable-background:new"
          id="g341">
         <path
@@ -3753,7 +3753,7 @@
            transform="matrix(0.756258,0,0,0.766988,332.41953,139.78412)" />
       </g>
       <g
-         transform="translate(-31.507713,970.10307)"
+         transform="translate(-32.011228,970.11107)"
          style="display:inline;enable-background:new"
          id="g323">
         <path
@@ -3809,7 +3809,7 @@
            style="opacity:0.8;fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       </g>
       <g
-         transform="translate(-33.107953,985.22234)"
+         transform="translate(-33.561475,985.32134)"
          style="display:inline;enable-background:new"
          id="g330">
         <path
@@ -3849,7 +3849,7 @@
            sodipodi:nodetypes="ccccccccccccccccccccccc" />
       </g>
       <g
-         transform="translate(-34.124583,988.63175)"
+         transform="translate(-34.1671,988.43075)"
          style="display:inline;enable-background:new"
          id="g336">
         <path
@@ -3888,23 +3888,6 @@
            sodipodi:nodetypes="ccccc" />
       </g>
       <g
-         transform="translate(-9.953533,904.08369)"
-         id="use15229"
-         style="display:inline">
-        <path
-           inkscape:connector-curvature="0"
-           style="display:inline;opacity:0.48987899;fill:url(#linearGradient895);fill-opacity:1;stroke:none"
-           d="m 313,179 c 3.35588,0.55242 3.73483,0.76516 3.73483,5.26516 3.5,0 4.09071,0.67421 5.26517,1.73484 0,-0.51002 0,0.0616 0,-0.5 -0.49895,-5.60501 -4.64984,-6.19121 -9,-6.5 z"
-           id="path891"
-           sodipodi:nodetypes="ccccc" />
-        <path
-           inkscape:connector-curvature="0"
-           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
-           d="m 313,178 c 3.2233,1.08275 4.98928,1.91735 5.03347,5.00314 2.26256,0 3.16773,2.05235 3.96653,3.99686 0,-0.51002 0,-0.93837 0,-1.5 0,-2.24796 -1.15018,-4.08414 -2.875,-5.40625 C 317.40018,178.77164 315.10449,178 313,178 Z"
-           id="path893"
-           sodipodi:nodetypes="cccssc" />
-      </g>
-      <g
          transform="translate(-20.955533,904.01491)"
          id="use15227"
          style="display:inline">
@@ -3920,6 +3903,23 @@
            id="path883"
            d="M 332.00518,129.65459 C 332.59986,129.65459 333,133.5 333,136 c 3,0 5.70366,0.45181 6,1 -0.20689,-0.74785 -0.53856,-3.7734 -5,-3 0.55752,-2.5008 -1.21299,-4.10771 -1.99482,-4.34541 l 0,0 z"
            style="display:inline;opacity:0.87854201;fill:url(#linearGradient887);fill-opacity:1;stroke:none" />
+      </g>
+      <g
+         transform="translate(-9.953533,904.08369)"
+         id="use15229"
+         style="display:inline">
+        <path
+           inkscape:connector-curvature="0"
+           style="display:inline;opacity:0.48987899;fill:url(#linearGradient895);fill-opacity:1;stroke:none"
+           d="m 313,179 c 3.35588,0.55242 3.73483,0.76516 3.73483,5.26516 3.5,0 4.09071,0.67421 5.26517,1.73484 0,-0.51002 0,0.0616 0,-0.5 -0.49895,-5.60501 -4.64984,-6.19121 -9,-6.5 z"
+           id="path891"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           inkscape:connector-curvature="0"
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+           d="m 313,178 c 3.2233,1.08275 4.98928,1.91735 5.03347,5.00314 2.26256,0 3.16773,2.05235 3.96653,3.99686 0,-0.51002 0,-0.93837 0,-1.5 0,-2.24796 -1.15018,-4.08414 -2.875,-5.40625 C 317.40018,178.77164 315.10449,178 313,178 Z"
+           id="path893"
+           sodipodi:nodetypes="cccssc" />
       </g>
     </g>
     <g
@@ -4086,7 +4086,7 @@
         </g>
       </g>
       <g
-         transform="translate(-1.318423,916.163)"
+         transform="translate(-1.5919432,915.877)"
          style="display:inline;enable-background:new"
          id="g300">
         <path
