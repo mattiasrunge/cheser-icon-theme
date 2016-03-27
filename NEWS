@@ -1,6 +1,8 @@
 ?.??.? (GNOME ?.??)
 ===================
 
+  * New icons:
+    - for adwaita-icon-theme [#67]
   * Removed icons:
     - five-or-more [#67]
     - four-in-a-row [#67]
