@@ -1,6 +1,8 @@
 ?.??.? (GNOME ?.??)
 ===================
 
+  * New supported packages:
+    - menulibre [#62]
   * New icons:
     - for adwaita-icon-theme [#67]
   * Removed icons:
