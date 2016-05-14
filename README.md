@@ -7,7 +7,7 @@ Based on The GNOME Project icons:
 * https://github.com/GNOME
 * https://github.com/gnome-design-team/gnome-icons
 
-**Supported Fedora 23 with GNOME 3.18 & Xfce 4.12**
+**Supported Fedora 24 with GNOME 3.20 & Xfce 4.12**
 
 
 ### Installation ###
