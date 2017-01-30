@@ -1,0 +1,23 @@
+{
+  "name": "cheser-icon-theme",
+  "version": "3.20.0",
+  "description": "Cheser Icon Theme is a Tango / GNOME style icons.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattiasrunge/cheser-icon-theme.git"
+  },
+  "keywords": [
+    "icons",
+    "gnome"
+  ],
+  "author": "",
+  "license": "CC-BY-SA-3.0",
+  "bugs": {
+    "url": "https://github.com/mattiasrunge/cheser-icon-theme/issues"
+  },
+  "homepage": "https://github.com/mattiasrunge/cheser-icon-theme#readme"
+}
