@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg id="PaperBorder" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" viewBox="0 -4.73515 277.1075 272.37235" height="255px" width="255px" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs>
+  <filter id="Shadow_b" style="color-interpolation-filters:sRGB" height="5.7795" width="1.3259" y="-2.3897" x="-.16294">
+   <feGaussianBlur stdDeviation="11.948684"/>
+  </filter>
+  <filter id="Shadow_a" style="color-interpolation-filters:sRGB" height="3.188" width="1.187" y="-1.094" x="-.093476">
+   <feGaussianBlur stdDeviation="8.257079"/>
+  </filter>
+  <linearGradient id="a-3" y2="-127.99" gradientUnits="userSpaceOnUse" y1="200.5" x2="-104.07" x1="84">
+   <stop offset="0"/>
+   <stop style="stop-opacity:0" offset="1"/>
+  </linearGradient>
+  <filter id="b-2" style="color-interpolation-filters:sRGB">
+   <feGaussianBlur stdDeviation="2.43"/>
+  </filter>
+  <radialGradient id="Paper_n" gradientUnits="userSpaceOnUse" cy="88.983" cx="-80.661" gradientTransform="matrix(25.306,2.1794e-6,-1.0731e-6,12.46,2199.2,-911.49)" r="18">
+   <stop style="stop-color:#fff" offset="0"/>
+   <stop style="stop-color:#d3d7cf" offset="1"/>
+  </radialGradient>
+  <radialGradient id="Paper_m" xlink:href="#Paper_a" gradientUnits="userSpaceOnUse" cy="116.47" cx="128.59" gradientTransform="matrix(3.5967 -.28529 .17691 2.2303 -355.12 -121.58)" r="92.902"/>
+  <linearGradient id="Paper_a">
+   <stop style="stop-color:#fff" offset="0"/>
+   <stop style="stop-color:#fff;stop-opacity:0" offset="1"/>
+  </linearGradient>
+  <clipPath id="Paper_y" clipPathUnits="userSpaceOnUse">
+   <path style="fill:url(#linearGradient6013) #000000;fill-rule:evenodd" d="m36 19c-0.56266 0-1 0.43734-1 1v217c0 0.56266 0.43734 1 1 1h184c0.56266 0 1-0.43734 1-1v-171c0-13.558-10.86-25.296-16.28-30.719s-17.16-16.281-30.72-16.281h-138z"/>
+  </clipPath>
+  <filter id="Paper_w" style="color-interpolation-filters:sRGB">
+   <feGaussianBlur stdDeviation="2.025"/>
+  </filter>
+  <radialGradient id="Paper_l" xlink:href="#Paper_a" gradientUnits="userSpaceOnUse" cy="45.297" cx="36" gradientTransform="matrix(0,2.7411,-1.8799,0,120.78,-78.804)" r="84.203"/>
+  <radialGradient id="Paper_k" xlink:href="#Paper_a" gradientUnits="userSpaceOnUse" cy="261.27" cx="127.75" gradientTransform="matrix(1.663 0 0 .34037 -84.702 148.57)" r="92.25"/>
+  <radialGradient id="Paper_j" xlink:href="#Paper_a" gradientUnits="userSpaceOnUse" cy="31.231" cx="20.48" gradientTransform="matrix(0,1.0485,-3.8781,0,165.49,13.855)" r="93"/>
+  <radialGradient id="Paper_i" xlink:href="#Paper_a" gradientUnits="userSpaceOnUse" cy="236.25" cx="127.75" gradientTransform="matrix(1.5709 0 0 1.1159 -53.057 .95481)" r="92.25"/>
+  <radialGradient id="Paper_h" xlink:href="#Paper_b" gradientUnits="userSpaceOnUse" cy="38.58" cx="210.96" gradientTransform="matrix(1.0442 0 0 .96082 -12.745 6.3495)" r="34.234"/>
+  <linearGradient id="Paper_b">
+   <stop offset="0"/>
+   <stop style="stop-opacity:0" offset="1"/>
+  </linearGradient>
+  <filter id="Paper_x" style="color-interpolation-filters:sRGB" height="1.2303" width="1.2119" y="-.11513" x="-.10594">
+   <feGaussianBlur stdDeviation="3.0222701"/>
+  </filter>
+  <mask id="Paper_o" maskUnits="userSpaceOnUse">
+   <path style="fill:#fff;fill-rule:evenodd" d="m36-31c-0.56266 0-1 0.43734-1 1v217c0 0.56266 0.43734 1 1 1h184c0.56266 0 1-0.43734 1-1v-171c0-13.558-12.86-23.296-18.28-28.719s-15.16-18.281-28.72-18.281h-138z"/>
+  </mask>
+  <filter id="Paper_v" style="color-interpolation-filters:sRGB" height="1.4828" width="1.4828" y="-.24138" x="-.24138">
+   <feGaussianBlur stdDeviation="4.7270115"/>
+  </filter>
+  <radialGradient id="Paper_g" xlink:href="#Paper_b" gradientUnits="userSpaceOnUse" cy="44.213" cx="196.36" gradientTransform="matrix(1 0 0 .98931 0 .47264)" r="23.763"/>
+  <filter id="Paper_u" style="color-interpolation-filters:sRGB">
+   <feGaussianBlur stdDeviation="0.27169794"/>
+  </filter>
+  <linearGradient id="Paper_q" y2="39.564" xlink:href="#Paper_b" gradientUnits="userSpaceOnUse" x2="196.45" gradientTransform="translate(-1.5,2.5214)" y1="52.973" x1="190.98"/>
+  <filter id="Paper_t" style="color-interpolation-filters:sRGB" height="1.2621" width="1.2621" y="-.13103" x="-.13103">
+   <feGaussianBlur stdDeviation="2.566092"/>
+  </filter>
+  <radialGradient id="Paper_f" xlink:href="#Paper_a" gradientUnits="userSpaceOnUse" cy="49.25" cx="190.88" gradientTransform="matrix(1.4473,0,0,1.4473,-85.751,-21.529)" r="23.5"/>
+  <radialGradient id="Paper_e" gradientUnits="userSpaceOnUse" cy="45.75" cx="192.25" gradientTransform="matrix(.5972 -.4509 1.7045 2.2575 -.54025 29.158)" r="23.5">
+   <stop style="stop-color:#fff" offset="0"/>
+   <stop style="stop-color:#e6e6e6" offset=".44761"/>
+   <stop style="stop-color:#cbcbcb" offset=".81268"/>
+   <stop style="stop-color:#dbdbdb" offset="1"/>
+  </radialGradient>
+  <radialGradient id="Paper_d" xlink:href="#Paper_a" gradientUnits="userSpaceOnUse" cy="27.786" cx="186.77" gradientTransform="matrix(2.1152,0,0,2.9279,-207.44,-53.617)" r="8.9714"/>
+  <filter id="Paper_s" style="color-interpolation-filters:sRGB">
+   <feGaussianBlur stdDeviation="0.30732727"/>
+  </filter>
+  <radialGradient id="Paper_c" xlink:href="#Paper_a" gradientUnits="userSpaceOnUse" cy="39.762" cx="208.68" gradientTransform="matrix(.99733 .072992 -.11677 1.5955 5.1997 -29.524)" r="13.625"/>
+  <filter id="Paper_r" style="color-interpolation-filters:sRGB" height="1.2035" width="1.0633" y="-.10174" x="-.031646">
+   <feGaussianBlur stdDeviation="0.35931052"/>
+  </filter>
+  <linearGradient id="Paper_p" y2="43.888" xlink:href="#Paper_a" gradientUnits="userSpaceOnUse" x2="189.25" y1="23.662" x1="189.25"/>
+  <filter id="Box_cd" y="-.31566" width="1.1768" height="1.6313" x="-.088412">
+   <feGaussianBlur stdDeviation="7.5339885"/>
+  </filter>
+  <filter id="Box_cg">
+   <feGaussianBlur stdDeviation="1.2808222"/>
+  </filter>
+  <clipPath id="Box_cx" clipPathUnits="userSpaceOnUse">
+   <path style="enable-background:new;fill-rule:evenodd" d="m59.875 74.344-16.688 49.531 1.0938-0.21875c-0.05438 0.1788-0.11847 0.3457-0.15625 0.53125-0.0016 0.01 0.0016 0.0216 0 0.0312-0.07572 0.38194-0.125 0.78267-0.125 1.1875v133c0 3.324 2.676 6 6 6h188.03c3.324 0 6-2.676 6-6v-133c0-0.6925-0.1298-1.3508-0.34375-1.9688l0.875 0.4375-16.688-49.531h-168z"/>
+  </clipPath>
+  <linearGradient id="Box_u" y2="76.674" gradientUnits="userSpaceOnUse" x2="52" gradientTransform="translate(14,28.406)" y1="40.482" x1="52">
+   <stop style="stop-color:#ebd3ad" offset="0"/>
+   <stop style="stop-color:#e9b96e" offset="1"/>
+  </linearGradient>
+  <linearGradient id="Box_t" y2="64" gradientUnits="userSpaceOnUse" x2="30" gradientTransform="translate(14,28.406)" y1="236" x1="174.02">
+   <stop style="stop-color:#c17d11" offset="0"/>
+   <stop style="stop-color:#e9b96e" offset="1"/>
+  </linearGradient>
+  <radialGradient id="Box_d" gradientUnits="userSpaceOnUse" cy="96" cx="136.13" gradientTransform="matrix(1.7673 0 0 .02407 -63.863 93.689)" r="105.23">
+   <stop style="stop-color:#eeeeec" offset="0"/>
+   <stop style="stop-color:#e9b96e" offset="1"/>
+  </radialGradient>
+  <mask id="Box_y" maskUnits="userSpaceOnUse">
+   <path style="fill:url(#Box_f);fill-rule:evenodd" d="m33.406 86-2.9375 8.6562c-0.08353 0.18482-0.13407 0.37027-0.1875 0.5625-0.05826 0.18811-0.11642 0.36686-0.15625 0.5625-0.0017 0.0097 0.0016 0.02155 0 0.03125-0.075 0.382-0.124 0.783-0.124 1.188v9h200.03v-9c0-0.831-0.16594-1.6254-0.46875-2.3438l-2.9-8.656h-193.25z"/>
+  </mask>
+  <linearGradient id="Box_f" y2="86" gradientUnits="userSpaceOnUse" y1="106" x2="90.25" x1="90.25">
+   <stop style="stop-color:#fff;stop-opacity:0" offset="0"/>
+   <stop style="stop-color:#fff" offset=".63482"/>
+   <stop style="stop-color:#fff" offset=".7367"/>
+   <stop style="stop-color:#fff;stop-opacity:0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="Box_s" y2="192" xlink:href="#Paper_a" gradientUnits="userSpaceOnUse" x2="35.523" gradientTransform="translate(14,28.406)" y1="192" x1="29.981"/>
+  <linearGradient id="Box_r" y2="222.18" gradientUnits="userSpaceOnUse" x2="97" gradientTransform="translate(14,28.406)" y1="236.06" x1="97">
+   <stop style="stop-color:#e9b96e" offset="0"/>
+   <stop style="stop-color:#e9b96e;stop-opacity:0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="Box_q" y2="233.38" xlink:href="#Paper_b" gradientUnits="userSpaceOnUse" x2="125.75" gradientTransform="translate(14,28.406)" y1="235.5" x1="125.75"/>
+  <linearGradient id="Box_p" y2="172.5" xlink:href="#Paper_a" gradientUnits="userSpaceOnUse" x2="223" gradientTransform="translate(14,28.406)" y1="172.5" x1="230.5"/>
+  <linearGradient id="Box_o" y2="101" xlink:href="#Box_w" gradientUnits="userSpaceOnUse" x2="140" y1="300" x1="139"/>
+  <linearGradient id="Box_w">
+   <stop style="stop-color:#8f5902" offset="0"/>
+   <stop style="stop-color:#8f5902;stop-opacity:0" offset="1"/>
+  </linearGradient>
+  <mask id="Box_bj" maskUnits="userSpaceOnUse">
+   <path style="fill:url(#Box_ak);fill-rule:evenodd" d="m36 91c-3.324 0-6 2.676-6 6v133c0 3.324 2.676 6 6 6h188.03c3.324 0 6-2.676 6-6v-133c0-3.324-2.676-6-6-6h-188.03z"/>
+  </mask>
+  <pattern id="Box_ak" xlink:href="#Box_au" patternTransform="translate(-110,111)"/>
+  <pattern id="Box_au" width="15" patternUnits="userSpaceOnUse" patternTransform="translate(-110,111)" height="15">
+   <rect style="fill:url(#Box_ap)" height="15" width="15" y="0" x="0"/>
+  </pattern>
+  <pattern id="Box_ap" xlink:href="#Box_az" patternTransform="scale(.5)"/>
+  <pattern id="Box_az" xlink:href="#Box_bf" patternTransform="matrix(.5 0 0 .5 -110 111)"/>
+  <pattern id="Box_bf" width="30" patternUnits="userSpaceOnUse" patternTransform="translate(-110,96)" height="30">
+   <rect style="fill:url(#Box_e);fill-rule:evenodd" height="30" width="30" y="0" x="0"/>
+  </pattern>
+  <linearGradient id="Box_e" y2="106" gradientUnits="userSpaceOnUse" y1="106" gradientTransform="matrix(.75 0 0 .75 82.5 -64.5)" x2="-70" x1="-110">
+   <stop style="stop-color:#fff" offset="0"/>
+   <stop style="stop-color:#fff;stop-opacity:0" offset=".125"/>
+   <stop style="stop-color:#fff" offset=".25"/>
+   <stop style="stop-color:#fff;stop-opacity:0" offset=".375"/>
+   <stop style="stop-color:#fff" offset=".5"/>
+   <stop style="stop-color:#fff;stop-opacity:0" offset=".625"/>
+   <stop style="stop-color:#fff" offset=".75"/>
+   <stop style="stop-color:#fff;stop-opacity:0" offset=".875"/>
+   <stop style="stop-color:#fff" offset="1"/>
+  </linearGradient>
+  <radialGradient id="Box_c" gradientUnits="userSpaceOnUse" cy="96" cx="123.93" gradientTransform="matrix(.56641 0 0 .02407 84.965 93.689)" r="105.23">
+   <stop style="stop-color:#eeeeec" offset="0"/>
+   <stop style="stop-color:#fff;stop-opacity:0" offset="1"/>
+  </radialGradient>
+  <linearGradient id="Box_n" y2="192.14" xlink:href="#Box_w" gradientUnits="userSpaceOnUse" x2="46" y1="192.14" x1="44"/>
+  <linearGradient id="Box_m" y2="192.14" xlink:href="#Box_w" gradientUnits="userSpaceOnUse" x2="46" gradientTransform="translate(-287.94)" y1="192.14" x1="44"/>
+  <linearGradient id="Box_l" y2="21.5" xlink:href="#Paper_b" gradientUnits="userSpaceOnUse" x2="117" y1="221.5" x1="189"/>
+  <filter id="Box_cn">
+   <feGaussianBlur stdDeviation="2.1614063"/>
+  </filter>
+  <linearGradient id="Box_k" y2="123" xlink:href="#Paper_b" gradientUnits="userSpaceOnUse" x2="-84" gradientTransform="translate(221)" y1="132.9" x1="-84"/>
+  <filter id="Box_bx" y="-.039796" width="1.2438" height="1.0796" x="-.12188">
+   <feGaussianBlur stdDeviation="1.625"/>
+  </filter>
+  <radialGradient id="Box_b" gradientUnits="userSpaceOnUse" cy="199.67" cx="129.71" gradientTransform="matrix(1.6076 0 0 .56169 334.96 15.302)" r="100.02">
+   <stop style="stop-color:#eeeeec" offset="0"/>
+   <stop style="stop-color:#eeeeec;stop-opacity:0" offset="1"/>
+  </radialGradient>
+  <radialGradient id="Box_a" xlink:href="#Paper_b" gradientUnits="userSpaceOnUse" cy="30.515" cx="554.02" gradientTransform="matrix(1.0652 0 0 .009125 -40.11 128.13)" r="95.891"/>
+  <clipPath id="Box_cr" clipPathUnits="userSpaceOnUse">
+   <path style="enable-background:new;fill:#808080;fill-rule:evenodd" d="m-88.625 74c-0.53122 0-0.78227 3.0925-0.9375 5.9688l-2.3438 42.5c-0.0534 0.7367-0.04986 1.5198-0.0625 2.3125h-0.03125v47.219h32v-47.219l-0.0625-2.3125-2.344-43.22c-0.155-2.877-0.407-5.25-0.938-5.25h-25.281z"/>
+  </clipPath>
+  <linearGradient id="Box_j" y2="127.26" gradientUnits="userSpaceOnUse" y1="120.99" x2="-76" x1="-76">
+   <stop style="stop-color:#fff" offset="0"/>
+   <stop style="stop-color:#fff" offset=".5"/>
+   <stop style="stop-color:#e9b96e" offset="1"/>
+  </linearGradient>
+  <linearGradient id="Box_i" y2="220" gradientUnits="userSpaceOnUse" y1="13.246" x2="-31.75" x1="-91.906">
+   <stop style="stop-color:#e9b96e" offset="0"/>
+   <stop style="stop-color:#fff;stop-opacity:0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="Box_h" y2="126.51" gradientUnits="userSpaceOnUse" y1="121.24" x2="-76" x1="-76">
+   <stop style="stop-color:#888a85" offset="0"/>
+   <stop style="stop-color:#eeeeec" offset=".5"/>
+   <stop style="stop-color:#2e3436" offset="1"/>
+  </linearGradient>
+  <filter id="Box_af">
+   <feGaussianBlur stdDeviation="0.335"/>
+  </filter>
+  <linearGradient id="Box_g" y2="123.25" xlink:href="#Paper_a" gradientUnits="userSpaceOnUse" x2="-77.5" y1="117.25" x1="-91.25"/>
+  <filter id="Boxlines_ce" y="-.31566" width="1.1768" height="1.6313" x="-.088412">
+   <feGaussianBlur stdDeviation="7.5339885"/>
+  </filter>
+  <filter id="Boxlines_cj">
+   <feGaussianBlur stdDeviation="1.2808222"/>
+  </filter>
+  <clipPath id="Boxlines_cy" clipPathUnits="userSpaceOnUse">
+   <path style="enable-background:new;fill-rule:evenodd" d="m59.875 74.344-16.688 49.531 1.0938-0.21875c-0.05438 0.1788-0.11847 0.3457-0.15625 0.53125-0.0016 0.01 0.0016 0.0216 0 0.0312-0.07572 0.38194-0.125 0.78267-0.125 1.1875v133c0 3.324 2.676 6 6 6h188.03c3.324 0 6-2.676 6-6v-133c0-0.6925-0.1298-1.3508-0.34375-1.9688l0.875 0.4375-16.688-49.531h-168z"/>
+  </clipPath>
+  <mask id="Boxlines_ac" maskUnits="userSpaceOnUse">
+   <path style="fill:url(#Box_f);fill-rule:evenodd" d="m33.406 86-2.9375 8.6562c-0.08353 0.18482-0.13407 0.37027-0.1875 0.5625-0.05826 0.18811-0.11642 0.36686-0.15625 0.5625-0.0017 0.0097 0.0016 0.02155 0 0.03125-0.075 0.382-0.124 0.783-0.124 1.188v9h200.03v-9c0-0.831-0.16594-1.6254-0.46875-2.3438l-2.9-8.656h-193.25z"/>
+  </mask>
+  <mask id="Boxlines_bl" maskUnits="userSpaceOnUse">
+   <path style="fill:url(#Boxlines_am);fill-rule:evenodd" d="m36 91c-3.324 0-6 2.676-6 6v133c0 3.324 2.676 6 6 6h188.03c3.324 0 6-2.676 6-6v-133c0-3.324-2.676-6-6-6h-188.03z"/>
+  </mask>
+  <pattern id="Boxlines_am" xlink:href="#Boxlines_aw" patternTransform="translate(-110,111)"/>
+  <pattern id="Boxlines_aw" width="15" patternUnits="userSpaceOnUse" patternTransform="translate(-110,111)" height="15">
+   <rect style="fill:url(#Boxlines_ar)" height="15" width="15" y="0" x="0"/>
+  </pattern>
+  <pattern id="Boxlines_ar" xlink:href="#Boxlines_bb" patternTransform="scale(.5)"/>
+  <pattern id="Boxlines_bb" xlink:href="#Boxlines_bg" patternTransform="matrix(.5 0 0 .5 -110 111)"/>
+  <pattern id="Boxlines_bg" width="30" patternUnits="userSpaceOnUse" patternTransform="translate(-110,96)" height="30">
+   <rect style="fill:url(#Box_e);fill-rule:evenodd" height="30" width="30" y="0" x="0"/>
+  </pattern>
+  <filter id="Boxlines_co">
+   <feGaussianBlur stdDeviation="2.1614063"/>
+  </filter>
+  <filter id="Boxlines_bz" y="-.039796" width="1.2438" height="1.0796" x="-.12188">
+   <feGaussianBlur stdDeviation="1.625"/>
+  </filter>
+  <clipPath id="Boxlines_ct" clipPathUnits="userSpaceOnUse">
+   <path style="enable-background:new;fill:#808080;fill-rule:evenodd" d="m-88.625 74c-0.53122 0-0.78227 3.0925-0.9375 5.9688l-2.3438 42.5c-0.0534 0.7367-0.04986 1.5198-0.0625 2.3125h-0.03125v47.219h32v-47.219l-0.0625-2.3125-2.344-43.22c-0.155-2.877-0.407-5.25-0.938-5.25h-25.281z"/>
+  </clipPath>
+  <filter id="Boxlines_ah">
+   <feGaussianBlur stdDeviation="0.335"/>
+  </filter>
+  <filter id="Boxlines_cc" y="-.31566" width="1.1768" height="1.6313" x="-.088412">
+   <feGaussianBlur stdDeviation="7.5339885"/>
+  </filter>
+  <filter id="Boxlines_ch">
+   <feGaussianBlur stdDeviation="1.2808222"/>
+  </filter>
+  <clipPath id="Boxlines_cv" clipPathUnits="userSpaceOnUse">
+   <path style="enable-background:new;fill-rule:evenodd" d="m59.875 74.344-16.688 49.531 1.0938-0.21875c-0.05438 0.1788-0.11847 0.3457-0.15625 0.53125-0.0016 0.01 0.0016 0.0216 0 0.0312-0.07572 0.38194-0.125 0.78267-0.125 1.1875v133c0 3.324 2.676 6 6 6h188.03c3.324 0 6-2.676 6-6v-133c0-0.6925-0.1298-1.3508-0.34375-1.9688l0.875 0.4375-16.688-49.531h-168z"/>
+  </clipPath>
+  <mask id="Boxlines_ab" maskUnits="userSpaceOnUse">
+   <path style="fill:url(#Box_f);fill-rule:evenodd" d="m33.406 86-2.9375 8.6562c-0.08353 0.18482-0.13407 0.37027-0.1875 0.5625-0.05826 0.18811-0.11642 0.36686-0.15625 0.5625-0.0017 0.0097 0.0016 0.02155 0 0.03125-0.075 0.382-0.124 0.783-0.124 1.188v9h200.03v-9c0-0.831-0.16594-1.6254-0.46875-2.3438l-2.9-8.656h-193.25z"/>
+  </mask>
+  <mask id="Boxlines_bk" maskUnits="userSpaceOnUse">
+   <path style="fill:url(#Boxlines_al);fill-rule:evenodd" d="m36 91c-3.324 0-6 2.676-6 6v133c0 3.324 2.676 6 6 6h188.03c3.324 0 6-2.676 6-6v-133c0-3.324-2.676-6-6-6h-188.03z"/>
+  </mask>
+  <pattern id="Boxlines_al" xlink:href="#Boxlines_as" patternTransform="translate(-110,111)"/>
+  <pattern id="Boxlines_as" width="15" patternUnits="userSpaceOnUse" patternTransform="translate(-110,111)" height="15">
+   <rect style="fill:url(#Boxlines_an)" height="15" width="15" y="0" x="0"/>
+  </pattern>
+  <pattern id="Boxlines_an" xlink:href="#Boxlines_ax" patternTransform="scale(.5)"/>
+  <pattern id="Boxlines_ax" xlink:href="#Boxlines_bd" patternTransform="matrix(.5 0 0 .5 -110 111)"/>
+  <pattern id="Boxlines_bd" width="30" patternUnits="userSpaceOnUse" patternTransform="translate(-110,96)" height="30">
+   <rect style="fill:url(#Box_e);fill-rule:evenodd" height="30" width="30" y="0" x="0"/>
+  </pattern>
+  <filter id="Boxlines_cl">
+   <feGaussianBlur stdDeviation="2.1614063"/>
+  </filter>
+  <filter id="Boxlines_by" y="-.039796" width="1.2438" height="1.0796" x="-.12188">
+   <feGaussianBlur stdDeviation="1.625"/>
+  </filter>
+  <clipPath id="Boxlines_cs" clipPathUnits="userSpaceOnUse">
+   <path style="enable-background:new;fill:#808080;fill-rule:evenodd" d="m-88.625 74c-0.53122 0-0.78227 3.0925-0.9375 5.9688l-2.3438 42.5c-0.0534 0.7367-0.04986 1.5198-0.0625 2.3125h-0.03125v47.219h32v-47.219l-0.0625-2.3125-2.344-43.22c-0.155-2.877-0.407-5.25-0.938-5.25h-25.281z"/>
+  </clipPath>
+  <filter id="Boxlines_ag">
+   <feGaussianBlur stdDeviation="0.335"/>
+  </filter>
+  <filter id="Boxlines_cd" y="-.31566" width="1.1768" height="1.6313" x="-.088412">
+   <feGaussianBlur stdDeviation="7.5339885"/>
+  </filter>
+  <filter id="Boxlines_cg">
+   <feGaussianBlur stdDeviation="1.2808222"/>
+  </filter>
+  <clipPath id="Boxlines_cx" clipPathUnits="userSpaceOnUse">
+   <path style="enable-background:new;fill-rule:evenodd" d="m59.875 74.344-16.688 49.531 1.0938-0.21875c-0.05438 0.1788-0.11847 0.3457-0.15625 0.53125-0.0016 0.01 0.0016 0.0216 0 0.0312-0.07572 0.38194-0.125 0.78267-0.125 1.1875v133c0 3.324 2.676 6 6 6h188.03c3.324 0 6-2.676 6-6v-133c0-0.6925-0.1298-1.3508-0.34375-1.9688l0.875 0.4375-16.688-49.531h-168z"/>
+  </clipPath>
+  <mask id="Boxlines_y" maskUnits="userSpaceOnUse">
+   <path style="fill:url(#Box_f);fill-rule:evenodd" d="m33.406 86-2.9375 8.6562c-0.08353 0.18482-0.13407 0.37027-0.1875 0.5625-0.05826 0.18811-0.11642 0.36686-0.15625 0.5625-0.0017 0.0097 0.0016 0.02155 0 0.03125-0.075 0.382-0.124 0.783-0.124 1.188v9h200.03v-9c0-0.831-0.16594-1.6254-0.46875-2.3438l-2.9-8.656h-193.25z"/>
+  </mask>
+  <mask id="Boxlines_bj" maskUnits="userSpaceOnUse">
+   <path style="fill:url(#Boxlines_ak);fill-rule:evenodd" d="m36 91c-3.324 0-6 2.676-6 6v133c0 3.324 2.676 6 6 6h188.03c3.324 0 6-2.676 6-6v-133c0-3.324-2.676-6-6-6h-188.03z"/>
+  </mask>
+  <pattern id="Boxlines_ak" xlink:href="#Boxlines_au" patternTransform="translate(-110,111)"/>
+  <pattern id="Boxlines_au" width="15" patternUnits="userSpaceOnUse" patternTransform="translate(-110,111)" height="15">
+   <rect style="fill:url(#Boxlines_ap)" height="15" width="15" y="0" x="0"/>
+  </pattern>
+  <pattern id="Boxlines_ap" xlink:href="#Boxlines_az" patternTransform="scale(.5)"/>
+  <pattern id="Boxlines_az" xlink:href="#Boxlines_bf" patternTransform="matrix(.5 0 0 .5 -110 111)"/>
+  <pattern id="Boxlines_bf" width="30" patternUnits="userSpaceOnUse" patternTransform="translate(-110,96)" height="30">
+   <rect style="fill:url(#Box_e);fill-rule:evenodd" height="30" width="30" y="0" x="0"/>
+  </pattern>
+  <filter id="Boxlines_cn">
+   <feGaussianBlur stdDeviation="2.1614063"/>
+  </filter>
+  <filter id="Boxlines_bx" y="-.039796" width="1.2438" height="1.0796" x="-.12188">
+   <feGaussianBlur stdDeviation="1.625"/>
+  </filter>
+  <clipPath id="Boxlines_cr" clipPathUnits="userSpaceOnUse">
+   <path style="enable-background:new;fill:#808080;fill-rule:evenodd" d="m-88.625 74c-0.53122 0-0.78227 3.0925-0.9375 5.9688l-2.3438 42.5c-0.0534 0.7367-0.04986 1.5198-0.0625 2.3125h-0.03125v47.219h32v-47.219l-0.0625-2.3125-2.344-43.22c-0.155-2.877-0.407-5.25-0.938-5.25h-25.281z"/>
+  </clipPath>
+  <filter id="Boxlines_af">
+   <feGaussianBlur stdDeviation="0.335"/>
+  </filter>
+  <filter id="Boxlines_cb" y="-.31566" width="1.1768" height="1.6313" x="-.088412">
+   <feGaussianBlur stdDeviation="7.5339885"/>
+  </filter>
+  <filter id="Boxlines_ci">
+   <feGaussianBlur stdDeviation="1.2808222"/>
+  </filter>
+  <clipPath id="Boxlines_cu" clipPathUnits="userSpaceOnUse">
+   <path style="enable-background:new;fill-rule:evenodd" d="m59.875 74.344-16.688 49.531 1.0938-0.21875c-0.05438 0.1788-0.11847 0.3457-0.15625 0.53125-0.0016 0.01 0.0016 0.0216 0 0.0312-0.07572 0.38194-0.125 0.78267-0.125 1.1875v133c0 3.324 2.676 6 6 6h188.03c3.324 0 6-2.676 6-6v-133c0-0.6925-0.1298-1.3508-0.34375-1.9688l0.875 0.4375-16.688-49.531h-168z"/>
+  </clipPath>
+  <mask id="Boxlines_z" maskUnits="userSpaceOnUse">
+   <path style="fill:url(#Box_f);fill-rule:evenodd" d="m33.406 86-2.9375 8.6562c-0.08353 0.18482-0.13407 0.37027-0.1875 0.5625-0.05826 0.18811-0.11642 0.36686-0.15625 0.5625-0.0017 0.0097 0.0016 0.02155 0 0.03125-0.075 0.382-0.124 0.783-0.124 1.188v9h200.03v-9c0-0.831-0.16594-1.6254-0.46875-2.3438l-2.9-8.656h-193.25z"/>
+  </mask>
+  <mask id="Boxlines_bh" maskUnits="userSpaceOnUse">
+   <path style="fill:url(#Boxlines_ai);fill-rule:evenodd" d="m36 91c-3.324 0-6 2.676-6 6v133c0 3.324 2.676 6 6 6h188.03c3.324 0 6-2.676 6-6v-133c0-3.324-2.676-6-6-6h-188.03z"/>
+  </mask>
+  <pattern id="Boxlines_ai" xlink:href="#Boxlines_at" patternTransform="translate(-110,111)"/>
+  <pattern id="Boxlines_at" width="15" patternUnits="userSpaceOnUse" patternTransform="translate(-110,111)" height="15">
+   <rect style="fill:url(#Boxlines_aq)" height="15" width="15" y="0" x="0"/>
+  </pattern>
+  <pattern id="Boxlines_aq" xlink:href="#Boxlines_ba" patternTransform="scale(.5)"/>
+  <pattern id="Boxlines_ba" xlink:href="#Boxlines_be" patternTransform="matrix(.5 0 0 .5 -110 111)"/>
+  <pattern id="Boxlines_be" width="30" patternUnits="userSpaceOnUse" patternTransform="translate(-110,96)" height="30">
+   <rect style="fill:url(#Box_e);fill-rule:evenodd" height="30" width="30" y="0" x="0"/>
+  </pattern>
+  <filter id="Boxlines_ck">
+   <feGaussianBlur stdDeviation="2.1614063"/>
+  </filter>
+  <filter id="Boxlines_bv" y="-.039796" width="1.2438" height="1.0796" x="-.12188">
+   <feGaussianBlur stdDeviation="1.625"/>
+  </filter>
+  <clipPath id="Boxlines_cq" clipPathUnits="userSpaceOnUse">
+   <path style="enable-background:new;fill:#808080;fill-rule:evenodd" d="m-88.625 74c-0.53122 0-0.78227 3.0925-0.9375 5.9688l-2.3438 42.5c-0.0534 0.7367-0.04986 1.5198-0.0625 2.3125h-0.03125v47.219h32v-47.219l-0.0625-2.3125-2.344-43.22c-0.155-2.877-0.407-5.25-0.938-5.25h-25.281z"/>
+  </clipPath>
+  <filter id="Boxlines_ae">
+   <feGaussianBlur stdDeviation="0.335"/>
+  </filter>
+  <filter id="Boxlines_ca" y="-.31566" width="1.1768" height="1.6313" x="-.088412">
+   <feGaussianBlur stdDeviation="7.5339885"/>
+  </filter>
+  <filter id="Boxlines_cf">
+   <feGaussianBlur stdDeviation="1.2808222"/>
+  </filter>
+  <clipPath id="Boxlines_cw" clipPathUnits="userSpaceOnUse">
+   <path style="enable-background:new;fill-rule:evenodd" d="m59.875 74.344-16.688 49.531 1.0938-0.21875c-0.05438 0.1788-0.11847 0.3457-0.15625 0.53125-0.0016 0.01 0.0016 0.0216 0 0.0312-0.07572 0.38194-0.125 0.78267-0.125 1.1875v133c0 3.324 2.676 6 6 6h188.03c3.324 0 6-2.676 6-6v-133c0-0.6925-0.1298-1.3508-0.34375-1.9688l0.875 0.4375-16.688-49.531h-168z"/>
+  </clipPath>
+  <mask id="Boxlines_aa" maskUnits="userSpaceOnUse">
+   <path style="fill:url(#Box_f);fill-rule:evenodd" d="m33.406 86-2.9375 8.6562c-0.08353 0.18482-0.13407 0.37027-0.1875 0.5625-0.05826 0.18811-0.11642 0.36686-0.15625 0.5625-0.0017 0.0097 0.0016 0.02155 0 0.03125-0.075 0.382-0.124 0.783-0.124 1.188v9h200.03v-9c0-0.831-0.16594-1.6254-0.46875-2.3438l-2.9-8.656h-193.25z"/>
+  </mask>
+  <mask id="Boxlines_bi" maskUnits="userSpaceOnUse">
+   <path style="fill:url(#Boxlines_aj);fill-rule:evenodd" d="m36 91c-3.324 0-6 2.676-6 6v133c0 3.324 2.676 6 6 6h188.03c3.324 0 6-2.676 6-6v-133c0-3.324-2.676-6-6-6h-188.03z"/>
+  </mask>
+  <pattern id="Boxlines_aj" xlink:href="#Boxlines_av" patternTransform="translate(-110,111)"/>
+  <pattern id="Boxlines_av" width="15" patternUnits="userSpaceOnUse" patternTransform="translate(-110,111)" height="15">
+   <rect style="fill:url(#Boxlines_ao)" height="15" width="15" y="0" x="0"/>
+  </pattern>
+  <pattern id="Boxlines_ao" xlink:href="#Boxlines_ay" patternTransform="scale(.5)"/>
+  <pattern id="Boxlines_ay" xlink:href="#Boxlines_bc" patternTransform="matrix(.5 0 0 .5 -110 111)"/>
+  <pattern id="Boxlines_bc" width="30" patternUnits="userSpaceOnUse" patternTransform="translate(-110,96)" height="30">
+   <rect style="fill:url(#Box_e);fill-rule:evenodd" height="30" width="30" y="0" x="0"/>
+  </pattern>
+  <filter id="Boxlines_cm">
+   <feGaussianBlur stdDeviation="2.1614063"/>
+  </filter>
+  <filter id="Boxlines_bw" y="-.039796" width="1.2438" height="1.0796" x="-.12188">
+   <feGaussianBlur stdDeviation="1.625"/>
+  </filter>
+  <clipPath id="Boxlines_cp" clipPathUnits="userSpaceOnUse">
+   <path style="enable-background:new;fill:#808080;fill-rule:evenodd" d="m-88.625 74c-0.53122 0-0.78227 3.0925-0.9375 5.9688l-2.3438 42.5c-0.0534 0.7367-0.04986 1.5198-0.0625 2.3125h-0.03125v47.219h32v-47.219l-0.0625-2.3125-2.344-43.22c-0.155-2.877-0.407-5.25-0.938-5.25h-25.281z"/>
+  </clipPath>
+  <filter id="Boxlines_ad">
+   <feGaussianBlur stdDeviation="0.335"/>
+  </filter>
+  <linearGradient id="linearGradient9707" y2="76.674" xlink:href="#Box_u" gradientUnits="userSpaceOnUse" y1="40.482" gradientTransform="translate(14,28.406)" x2="52" x1="52"/>
+  <linearGradient id="linearGradient9709" y2="64" xlink:href="#Box_t" gradientUnits="userSpaceOnUse" y1="236" gradientTransform="translate(14,28.406)" x2="30" x1="174.02"/>
+  <radialGradient id="radialGradient9711" xlink:href="#Box_d" gradientUnits="userSpaceOnUse" cy="96" cx="136.13" gradientTransform="matrix(1.7673 0 0 .02407 -63.863 93.689)" r="105.23"/>
+  <linearGradient id="linearGradient9715" y2="222.18" xlink:href="#Box_r" gradientUnits="userSpaceOnUse" y1="236.06" gradientTransform="translate(14,28.406)" x2="97" x1="97"/>
+  <radialGradient id="radialGradient9723" xlink:href="#Box_c" gradientUnits="userSpaceOnUse" cy="96" cx="123.93" gradientTransform="matrix(.56641 0 0 .02407 84.965 93.689)" r="105.23"/>
+  <radialGradient id="radialGradient9733" xlink:href="#Box_b" gradientUnits="userSpaceOnUse" cy="199.67" cx="129.71" gradientTransform="matrix(1.6076 0 0 .56169 334.96 15.302)" r="100.02"/>
+  <linearGradient id="linearGradient9737" y2="127.26" xlink:href="#Box_j" gradientUnits="userSpaceOnUse" y1="120.99" x2="-76" x1="-76"/>
+  <linearGradient id="linearGradient9739" y2="220" xlink:href="#Box_i" gradientUnits="userSpaceOnUse" y1="13.246" x2="-31.75" x1="-91.906"/>
+  <linearGradient id="linearGradient9741" y2="126.51" xlink:href="#Box_h" gradientUnits="userSpaceOnUse" y1="121.24" x2="-76" x1="-76"/>
+  <filter id="filter5735" y="-.16319" width="1.2541" x="-.12703" height="1.3264">
+   <feGaussianBlur stdDeviation="12.915397"/>
+  </filter>
+  <linearGradient id="linearGradient5988" x1="57.214" xlink:href="#linearGradient5641" gradientUnits="userSpaceOnUse" y1="179.58" gradientTransform="matrix(.61303 0 0 .61286 62.113 79.466)" x2="93.291" y2="177.24"/>
+  <linearGradient id="linearGradient5641">
+   <stop style="stop-color:#b5b5b5" offset="0"/>
+   <stop style="stop-color:#868686" offset=".5"/>
+   <stop style="stop-color:#c7c7c7" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient5974" x1="38.891" gradientUnits="userSpaceOnUse" y1="145.83" gradientTransform="matrix(.61303 0 0 .61286 62.113 79.466)" x2="59.22" y2="145.89">
+   <stop style="stop-color:#e3e3e3" offset="0"/>
+   <stop style="stop-color:#b2b2b2" offset=".5"/>
+   <stop style="stop-color:#d6d6d6" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient5733" x1="80.964" xlink:href="#linearGradient5641" gradientUnits="userSpaceOnUse" y1="195.33" gradientTransform="matrix(.61303 0 0 .61286 62.113 79.466)" x2="108.54" y2="195.74"/>
+  <linearGradient id="linearGradient5723" x1="199.5" xlink:href="#linearGradient5641" gradientUnits="userSpaceOnUse" y1="114.25" gradientTransform="matrix(.61303 0 0 .61286 62.113 79.466)" x2="228.25" y2="113"/>
+  <linearGradient id="linearGradient5717" x1="192" xlink:href="#linearGradient5641" gradientUnits="userSpaceOnUse" y1="146.25" gradientTransform="matrix(.61303 0 0 .61286 62.113 79.466)" x2="225.75" y2="145.25"/>
+  <linearGradient id="linearGradient5635" x1="184" xlink:href="#linearGradient5615" gradientUnits="userSpaceOnUse" y1="166" gradientTransform="matrix(.61303 0 0 .61286 62.113 79.466)" x2="215.5" y2="170.25"/>
+  <linearGradient id="linearGradient5615">
+   <stop style="stop-color:#717171" offset="0"/>
+   <stop style="stop-color:#ccc" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient5729" x1="116.83" xlink:href="#linearGradient5641" gradientUnits="userSpaceOnUse" y1="194.84" gradientTransform="matrix(.61303 0 0 .61286 62.113 79.466)" x2="145.66" y2="194.84"/>
+  <linearGradient id="linearGradient5585" x1="134.34" gradientUnits="userSpaceOnUse" y1="71.5" gradientTransform="matrix(.61303 0 0 .61286 62.113 63.532)" x2="171.66" y2="212.5">
+   <stop style="stop-color:#eddee1" offset="0"/>
+   <stop style="stop-color:#cb9ea7" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient5639" x1="153.25" xlink:href="#linearGradient5641" gradientUnits="userSpaceOnUse" y1="202.75" gradientTransform="matrix(.61303 0 0 .61286 62.113 79.466)" x2="184.25" y2="201.75"/>
+  <radialGradient id="radialGradient5603" xlink:href="#linearGradient5597" gradientUnits="userSpaceOnUse" cy="73.568" cx="-88.308" gradientTransform="matrix(.42113 .13866 -.072682 .22063 127.94 134.01)" r="101.66"/>
+  <linearGradient id="linearGradient5597">
+   <stop style="stop-color:#717171" offset="0"/>
+   <stop style="stop-color:#717171;stop-opacity:0" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient5607" xlink:href="#linearGradient5597" gradientUnits="userSpaceOnUse" cy="165.91" cx="147.51" gradientTransform="matrix(.43923 .18086 -.088488 .21478 134.61 97.131)" r="101.66"/>
+  <linearGradient id="linearGradient5621" x1="172.43" xlink:href="#linearGradient5615" gradientUnits="userSpaceOnUse" y1="202.57" gradientTransform="matrix(.61303 0 0 .61286 62.113 79.466)" x2="152.25" y2="202.57"/>
+  <linearGradient id="linearGradient5627" x1="201" xlink:href="#linearGradient5615" gradientUnits="userSpaceOnUse" y1="189" gradientTransform="matrix(.61303 0 0 .61286 62.113 79.466)" x2="145" y2="212.5"/>
+  <linearGradient id="linearGradient5631" x1="228.5" xlink:href="#linearGradient5615" gradientUnits="userSpaceOnUse" y1="149.5" gradientTransform="matrix(.61303 0 0 .61286 62.113 79.466)" x2="141" y2="202.5"/>
+  <linearGradient id="linearGradient5699" x1="65" gradientUnits="userSpaceOnUse" y1="95" gradientTransform="matrix(.6069 0 0 .61286 63.278 79.466)" x2="190" y2="95">
+   <stop style="stop-color:#c9c9c9" offset="0"/>
+   <stop style="stop-color:#939393" offset=".32143"/>
+   <stop style="stop-color:#d1d1d1" offset=".75"/>
+   <stop style="stop-color:#b2b2b2" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient5713" gradientUnits="userSpaceOnUse" cy="48.968" cx="69.515" gradientTransform="matrix(.86317 -.86293 .44861 .44849 78.84 158.25)" r="101.66">
+   <stop style="stop-color:#e8e8e8" offset="0"/>
+   <stop style="stop-color:#717171;stop-opacity:0" offset="1"/>
+  </radialGradient>
+  <linearGradient id="linearGradient5893" x1="147.25" xlink:href="#Paper_a" gradientUnits="userSpaceOnUse" y1="195.62" gradientTransform="matrix(.61303 0 0 .61286 62.113 78.853)" x2="148.75" y2="218.88"/>
+  <linearGradient id="linearGradient5903" x1="115" gradientUnits="userSpaceOnUse" y1="205.75" gradientTransform="matrix(.61303 0 0 .61286 62.113 79.466)" x2="124.5" y2="206">
+   <stop style="stop-color:#cecece" offset="0"/>
+   <stop style="stop-color:#a0a0a0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient5984" x1="63.213" xlink:href="#linearGradient5978" gradientUnits="userSpaceOnUse" y1="180.76" gradientTransform="matrix(.61303 0 0 .61286 62.113 79.466)" x2="83.841" y2="193.12"/>
+  <linearGradient id="linearGradient5978">
+   <stop style="stop-color:#f5f5f5" offset="0"/>
+   <stop style="stop-color:#c7c7c7" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient5976" x1="42" xlink:href="#linearGradient5978" gradientUnits="userSpaceOnUse" y1="172.62" gradientTransform="matrix(.61303 0 0 .61286 62.113 79.466)" x2="55.911" y2="172.62"/>
+  <linearGradient id="linearGradient5759" x1="31.071" xlink:href="#Paper_a" gradientUnits="userSpaceOnUse" y1="36.879" gradientTransform="matrix(3.087,0,0,3.0873,64.247,83.199)" x2="30.947" y2="11.328"/>
+  <linearGradient id="linearGradient5751" x1="26.934" xlink:href="#Paper_a" gradientUnits="userSpaceOnUse" y1="5.5278" gradientTransform="matrix(3.1831,0,0,3.1846,61.872,81.145)" x2="26.934" y2="28.598"/>
+ </defs>
+ <g>
+  <g transform="translate(7.583e-8 -.0000017947)">
+   <g transform="translate(2.6683e-7,4.285e-6)">
+    <g transform="translate(-110.02,-92.829)">
+     <path style="opacity:.7;filter:url(#b-2);fill:url(#a-3);fill-rule:evenodd" transform="matrix(.98925 0 0 1.0129 102.29 67.074)" d="m55.872 47.328c-0.56266 0-1 0.43734-1 1l-1.0109 217c0 0.56266 0.43734 1 1 1h186.02c0.56266 0 1-0.43734 1-1l-1.0109-171c0-13.558-10.858-25.296-16.281-30.719-5.4231-5.4231-17.161-16.281-30.719-16.281h-138z"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
